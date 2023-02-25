@@ -1,5 +1,4 @@
-package src;
-public class actividad_tema9 {
+public class Actividad9_introduccion_a_la_programacion {
 public static void main(String[] args) {
     Cliente cliente = new Cliente();
     cliente.nombre = "Emmanuel";
@@ -15,8 +14,6 @@ public static void main(String[] args) {
     trabajador.telefono = 812371912;
     trabajador.salario = 15000.01;
     System.out.println("soy " + trabajador.nombre + " tengo " + trabajador.edad + " mi numero es " + trabajador.telefono + " mi salario actual es " + trabajador.salario);
-    
-    
 }
 }
 class Persona {

@@ -1,5 +1,4 @@
-package src;
-public class actividad_tema4 {
+public class Actividad4_introduccion_a_la_programacion {
 public static void main(String[] args) {
  //Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.
     int numeroif = -2;

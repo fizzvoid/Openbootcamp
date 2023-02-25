@@ -1,5 +1,4 @@
-package src;
-public class actividad_tema8 {
+public class Actividad8_introduccion_a_la_programacion {
 public static void main(String[] args) {
     persona persona1 = new persona();
     persona1.setEdad(18);

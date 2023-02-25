@@ -1,4 +1,4 @@
-public class Ejercicio_Tema_3 {
+public class Actividad3_introduccion_a_la_programacion {
 //PARTE 1
     public static int suma (int a, int b, int c){
         return a + b + c;
