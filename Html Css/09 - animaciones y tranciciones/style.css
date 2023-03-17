@@ -1,0 +1,7 @@
+.btn-modern:hover {
+    transform: translateY(-5px);
+    box-shadow: black 3px 3px 10px 0px;
+    background-color: bisque;
+    color: burlywood;
+    transition: 0.4s;
+}
