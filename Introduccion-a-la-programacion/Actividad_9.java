@@ -1,4 +1,4 @@
-public class Actividad9_introduccion_a_la_programacion {
+public class Actividad_9 {
 public static void main(String[] args) {
     Cliente cliente = new Cliente();
     cliente.nombre = "Emmanuel";

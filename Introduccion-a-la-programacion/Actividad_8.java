@@ -1,4 +1,4 @@
-public class Actividad8_introduccion_a_la_programacion {
+public class Actividad_8 {
 public static void main(String[] args) {
     persona persona1 = new persona();
     persona1.setEdad(18);
@@ -33,5 +33,6 @@ class persona {
     public int getTelefono() {
         return telefono;
     }
+    
     
 }
